@@ -2,3 +2,4 @@ venv/
 .env
 data/Inventory.csv
 price_check.py
+*pyc
